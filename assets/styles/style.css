@@ -1,0 +1,23 @@
+#one{background-color: blue;}
+#two{background-color: red}
+#three{background-color: green;}
+#four{background-color: yellow;}
+div{ 
+    width: 200px;
+    height: 200px;
+    background-color: red
+}
+.container{
+    background-color: white;
+    flex-wrap: wrap;
+    height: 33vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+    align-items: center;
+}
+#key{
+    background-color: white;
+    border: 2px solid black;
+}
