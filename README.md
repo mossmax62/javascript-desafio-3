@@ -1,4 +1,4 @@
-# Desafio 3 - javascript - funciónes
+# Desafio 3 - javascript - funciones
 
 
 [Deploy online pintar](https://mossmax62.github.io/javascript-desafio-3/pintar.html)
